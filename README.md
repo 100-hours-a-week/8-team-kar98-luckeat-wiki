@@ -1,35 +1,33 @@
-# LUCKEAT 럭잇 FrontEnd✨
+# 🍀 LuckEat 럭킷 Wiki
 
 ---
 
-- 🌱 프로젝트 기간 :2025.02.10- 2025.05.03
-- 🌱 럭잇  서비스 바로가기
+- 📌 프로젝트 기간 :2025.02.10- 2025.05.03
+- 📌 럭킷  서비스 바로가기
 
 ---
 
 ### **🍀 소개**
 
-> • 서비스 소개
+> • [서비스 소개](https://github.com/100-hours-a-week/8-team-kar98-luckeat-wiki/blob/d260362d8d724b6502d53fd7f30e0365f33e227b/%EC%84%9C%EB%B9%84%EC%8A%A4%EC%86%8C%EA%B0%9C.md)
 > 
+> • [만든 사람들 (역할 & GitHub 링크)](https://github.com/100-hours-a-week/8-team-kar98-luckeat-wiki/blob/d260362d8d724b6502d53fd7f30e0365f33e227b/%EB%A7%8C%EB%93%A0%EC%82%AC%EB%9E%8C%EB%93%A4.md)
 > 
-> • 만든 사람들 (역할 & GitHub 링크)
-> 
-> • 주요 기능
+> • [주요 기능](https://github.com/100-hours-a-week/8-team-kar98-luckeat-wiki/blob/d260362d8d724b6502d53fd7f30e0365f33e227b/%EC%A3%BC%EC%9A%94%EA%B8%B0%EB%8A%A5.md)
 > 
 
 ### **🍀 프로젝트 개요**
 
-> • 서비스 목적
+> • [서비스 목적](https://github.com/100-hours-a-week/8-team-kar98-luckeat-wiki/blob/d260362d8d724b6502d53fd7f30e0365f33e227b/%EC%84%9C%EB%B9%84%EC%8A%A4%EB%AA%A9%EC%A0%81.md)
 > 
-> 
-> • 타겟 사용자
+> • [타겟 사용자](https://github.com/100-hours-a-week/8-team-kar98-luckeat-wiki/blob/d260362d8d724b6502d53fd7f30e0365f33e227b/%ED%83%80%EA%B2%9F%EC%82%AC%EC%9A%A9%EC%9E%90.md)
 > 
 > • 기술 스택//보류
 > 
 
 ### **🍀 기획**
 
-> • API 명세서
+> • [API 명세서](https://github.com/100-hours-a-week/8-team-kar98-luckeat-wiki/blob/d260362d8d724b6502d53fd7f30e0365f33e227b/API%EB%AA%85%EC%84%B8%EC%84%9C.md)
 > 
 > 
 > • 컨포넌트 정보
@@ -39,36 +37,31 @@
 
 ### **🍀 아키텍처**
 
-> • 아키텍처 다이어그램
-> 
+> • [아키텍처 다이어그램](https://github.com/100-hours-a-week/8-team-kar98-luckeat-wiki/blob/d260362d8d724b6502d53fd7f30e0365f33e227b/%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%20%EC%9D%B4%EB%AF%B8%EC%A7%80.md)
 > 
 > • 기술적 의사결정
 > 
 
 ### **🍀 데이터베이스 구조**
 
-> • ERD(Entity Relationship Diagram)
+> • [ERD(Entity Relationship Diagram)](https://github.com/100-hours-a-week/8-team-kar98-luckeat-wiki/blob/d260362d8d724b6502d53fd7f30e0365f33e227b/ERD.md)
 > 
-> 
-> • 주요 테이블 설명
 > 
 
 ### **🍀 기능**
 
-> • 로그인, 회원가입
+> • [기능 정의서 및 공통 사항](https://github.com/100-hours-a-week/8-team-kar98-luckeat-wiki/blob/d260362d8d724b6502d53fd7f30e0365f33e227b/%EA%B8%B0%EB%8A%A5%EC%A0%95%EC%9D%98%EC%84%9C%2C%20%EA%B3%B5%ED%86%B5%EC%82%AC%ED%95%AD.md)
 > 
+> • [유저 관련 기능](https://github.com/100-hours-a-week/8-team-kar98-luckeat-wiki/blob/d260362d8d724b6502d53fd7f30e0365f33e227b/%EC%9C%A0%EC%A0%80%20%EA%B4%80%EB%A0%A8%20%EA%B8%B0%EB%8A%A5.md)
 > 
-> • 태그및 필터 기능
+> • [가게 관련 기능](https://github.com/100-hours-a-week/8-team-kar98-luckeat-wiki/blob/d260362d8d724b6502d53fd7f30e0365f33e227b/%EA%B0%80%EA%B2%8C%20%EA%B4%80%EB%A0%A8%20%EA%B8%B0%EB%8A%A5.md)
 > 
-> • 가게 검색
-> 
-> • 리뷰 작성
+> • [리뷰 관련 기능](https://github.com/100-hours-a-week/8-team-kar98-luckeat-wiki/blob/d260362d8d724b6502d53fd7f30e0365f33e227b/%EB%A6%AC%EB%B7%B0%20%EA%B4%80%EB%A0%A8%20%EA%B8%B0%EB%8A%A5.md)
 > 
 
 ### **🍀 트러블슈팅**
 
 > • 트슈1
-> 
 > 
 > • 트슈2
 > 
